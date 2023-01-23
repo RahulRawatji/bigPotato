@@ -1,0 +1,19 @@
+.header{
+    position: sticky;
+    top: 0;
+    background-color: #1e3932;
+    color: azure;
+    font-weight: bold;
+}
+
+.sb__middle{
+    background-color: #f1f8f5;
+    font-size: 1.75rem;
+    font-weight: bolder;
+    text-align: center;
+    padding: 3rem;
+}
+
+.sb_star{
+    color: gold;
+}

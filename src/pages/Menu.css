@@ -1,0 +1,16 @@
+.menu-nav{
+    background-color: #f9f9f9;
+    padding: .65rem;
+    top:0;
+    position: sticky;
+}
+
+.left-grid{
+    font-family: sans-serif;
+    min-width: 20%;
+    word-wrap: break-word
+}
+
+.right-grid{
+    min-width: 70%;
+}

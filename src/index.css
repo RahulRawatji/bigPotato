@@ -1,0 +1,25 @@
+@tailwind base;
+@font-face {
+    font-family: 'SoDo Sans';
+    src: url('../src/assets/sodo-sans.woff') format('woff');
+}
+@font-face {
+    font-family: 'SoDoSans Li';
+    src: url('../src/assets/SoDoSans-Light.woff') format('woff');
+}
+
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    font-family: 'SoDoSans Li','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul{
+    font-family: "SoDoSans Li";
+}
+
+h1{
+    font-size: 1.75rem;
+}
